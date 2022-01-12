@@ -1,0 +1,25 @@
+body{
+    background-color:aliceblue;
+}
+h1{
+    height:6%;
+    padding-top: 3%;
+}
+h2{
+    text-align: center;
+}
+img{
+    border-width: 20%;
+    border-color: cadetblue;
+    border-style: dotted;
+}
+.fb{
+    float:right;
+}
+p, ul{
+    margin:10px;
+    font-style: oblique;
+}
+strong{
+    font-weight:bolder;
+}
